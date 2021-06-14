@@ -5,7 +5,7 @@ This Perl program filters fasta sequences by a size range.
 
 ACKNOWLEDGEMENTS
 
-This code was taken from [this site] (https://bioinformaticsonline.com/snippets/view/37656/perl-script-to-extract-a-sequence-from-multifasta-with-range). It is reposted here to allow for automated git cloning.
+This code was taken from [this site](https://bioinformaticsonline.com/snippets/view/37656/perl-script-to-extract-a-sequence-from-multifasta-with-range). It is reposted here to allow for automated git cloning.
 
 
 INSTALLATION
